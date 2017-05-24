@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/project-vibe/algolia-integ-firebase/issues"
   },
-  "homepage": "https://github.com/project-vibe/algolia-integ-firebase#readme"
+  "homepage": "https://github.com/project-vibe/algolia-integ-firebase#readme",
+  "dependencies": {
+    "algoliasearch": "^3.22.2",
+    "dotenv": "^4.0.0",
+    "firebase-admin": "^5.0.0"
+  }
 }
